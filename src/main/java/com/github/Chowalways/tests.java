@@ -18,8 +18,8 @@ public class tests {
             return "acute angle triangle";
         }
         if (e[0] * e[0] + e[1] * e[1] == e[2] + e[2]) {
-            return "直角三角形";
+            return "right angle triangle";
         }
-        return "鈍角三角形";
+        return "obtuse angle triangle";
     }
 }
