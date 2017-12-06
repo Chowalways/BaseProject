@@ -1,5 +1,6 @@
 package com.github.Chowalways;
 
+import org.junit.Assert;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
@@ -14,7 +15,7 @@ public class testsTest {
         String result = triangle.getType();
 
         // Assert
-        Assert.assertEquals("不是三角形", result);
+        Assert.assertEquals("Not a triangle", result);
     }
 
 }
