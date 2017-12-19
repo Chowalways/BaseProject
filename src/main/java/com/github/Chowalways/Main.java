@@ -7,10 +7,10 @@ public class Main {
      * Main function for the activities function
      * acts as the menu for different activities functions
      *
-     * @param Add adds an activity
-     * @param Delete deletes an activity
-     * @param View views all activities
-     * @param Exit closes program
+     *  Add adds an activity
+     *  Delete deletes an activity
+     *  View views all activities
+     *  Exit closes program
      */
     public static void main(String[] args) {
 

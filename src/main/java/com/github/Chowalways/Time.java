@@ -10,7 +10,7 @@ public class Time {
         System.out.println("The time now is : " + fmt.format(date));
     }
 
-    public void errorChecking(){
-
-    }
+//    public void errorChecking(){
+//
+//    }
 }
